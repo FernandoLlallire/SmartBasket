@@ -1,0 +1,38 @@
+.textoDescripcion{
+      color: orange;
+}
+.vertical-align {
+    display: flex;
+    align-items: center;
+}
+.myMarginButon{
+ margin-bottom: 3em;
+}
+.myMarginTop{
+ margin-top: 3em;
+}
+.myMarginButon2{
+ margin-bottom: 6em;
+}
+.myPaddingButon{
+  padding-bottom: : 3em;
+}
+.myPaddingTop{
+  padding-top: 3em;
+}
+.myImagenEdit{
+  height: 100px;
+}
+.interlineado{
+   line-height: 1.6;
+}
+.myNav{
+  background-color: #02BBD2!important;
+  margin-bottom: 0!important;
+}
+.colorBack{
+  background-color: #B4B4B4!important;
+}
+.imaAlto{
+  height: 600px; 
+}
